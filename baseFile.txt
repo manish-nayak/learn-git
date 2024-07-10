@@ -7,3 +7,5 @@ The end game has been re-defined.
 We had a difficult conversation where I don't feel good.
 
 Even though the conversation was difficult, it was necessary
+
+It seems to me as if the diagrammatic representation in the gitkraken keeps on changing when I modify the commit in the master.
