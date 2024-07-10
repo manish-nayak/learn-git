@@ -1,7 +1,9 @@
 If we want to see some merge conflicts, here we go. Modification in the branched file.
 
-If you see this, you have modified the first commit and are in the new one.
+If you see this, you have modified the file after the second branch was created.
 
-We are in the end game now.
+The end game has been re-defined.
 
 We had a difficult conversation where I don't feel good.
+
+Even though the conversation was difficult, it was necessary
