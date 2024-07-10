@@ -1,1 +1,3 @@
-This is the first commit.
+This is the second commit.
+
+If you see this, you have modified the first commit and are in the new one.
