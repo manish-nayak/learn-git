@@ -1,7 +1,9 @@
-If we want to see some merge conflicts, here we go. Modification in the branched file.
+This is where we do modifications for the SecondBranch to get some conflicts.
 
 If you see this, you have modified the first commit and are in the new one.
 
 We are in the end game now.
 
 We had a difficult conversation where I don't feel good.
+
+Let's see what's the outcome of all this activity.
