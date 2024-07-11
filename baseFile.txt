@@ -1,7 +1,9 @@
 If we want to see some merge conflicts, here we go. Modification in the branched file.
 
-If you see this, you have modified the first commit and are in the new one.
+If you see this, you have modified the file after the second branch was created.
 
-We are in the end game now.
+The end game has been re-defined.
 
 We have to choose the contents that we want to show in this new branch..
+
+It seems to me as if the diagrammatic representation in the gitkraken keeps on changing when I modify the commit in the master.
