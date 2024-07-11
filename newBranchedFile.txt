@@ -1,0 +1,3 @@
+Hey, let's get into the details of this git process now.
+
+This is the file created after the second branch was created in the secondBranch branch.
