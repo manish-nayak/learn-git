@@ -4,4 +4,4 @@ If you see this, you have modified the first commit and are in the new one.
 
 We are in the end game now.
 
-We had a difficult conversation where I don't feel good.
+We have to choose the contents that we want to show in this new branch..
